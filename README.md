@@ -1,6 +1,6 @@
 # 📘 Object-Oriented ABAP (OO ABAP) Code Snippets
 
-This repository contains a collection of important and frequently used ABAP code examples related to **Object-Oriented ABAP (OO ABAP)**. These examples are useful for learners, developers, and professionals preparing for SAP ABAP interviews or working on real-world ABAP projects.
+This repository contains a collection of important and frequently used ABAP code examples related to **Object-Oriented ABAP (OO ABAP)**. These examples are useful for learners and developers.
 
 ## 📂 Repository Structure
 
@@ -38,10 +38,6 @@ This repository is ideal for:
 ## 📝 Contributing
 
 If you have helpful examples or improvements to existing code, feel free to create a pull request or open an issue!
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
